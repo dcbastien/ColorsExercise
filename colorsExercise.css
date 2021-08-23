@@ -15,13 +15,12 @@ h5 {color: #ffff;
     background-color: #00ff;}
 h6 {color:rgb(255, 255, 255) ;
     background-color: rgb(75, 0, 130);}
-p {color: rgba(255, 255, 255, 255);
-git     #one {color: hotpink;}
+p {color: rgba(255, 255, 255, 255);}
+    #one{color: hotpink;}
     #two{}
     #three{color: peachpuff;}
     li:not(#two){
         border: solid;
         border-color: green;
         border-width: 5px;
-    
     }
