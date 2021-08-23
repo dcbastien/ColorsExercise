@@ -1,0 +1,27 @@
+/* Style Sheet */
+h1 {color: white;
+    background-color: red;   
+}
+h2 {color: #FFFFFF;
+    background-color: #ffa500;
+}
+h3 {color: #fff;
+    background-color:#dd0;
+    
+}
+h4 {color: #ffffffff;
+    background-color: #00FF00ff;}
+h5 {color: #ffff;
+    background-color: #00ff;}
+h6 {color:rgb(255, 255, 255) ;
+    background-color: rgb(75, 0, 130);}
+p {color: rgba(255, 255, 255, 255);
+git     #one {color: hotpink;}
+    #two{}
+    #three{color: peachpuff;}
+    li:not(#two){
+        border: solid;
+        border-color: green;
+        border-width: 5px;
+    
+    }
